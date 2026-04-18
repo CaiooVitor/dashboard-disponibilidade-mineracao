@@ -34,4 +34,4 @@ Por questões de segurança da informação, todos os dados contidos neste repos
 
 ## 📩 Contato
 Desenvolvido por **[Seu Nome Aqui]**
-[LinkedIn]([Link do seu Perfil]) | [Seu E-mail]
+[LinkedIn]([https://www.linkedin.com/in/caio-vitor-fonseca-diniz-037485257/?skipRedirect=true]) | [caiovitor3ma@gmail.com]
