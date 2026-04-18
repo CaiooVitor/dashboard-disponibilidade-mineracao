@@ -1,5 +1,5 @@
 # Projeto Prático: Dashboard de Disponibilidade Física (DF%) na Mineração 🚜📊
-![Dashboard Final](Captura de tela 2026-04-18 085146.png)
+!(Captura de tela 2026-04-18 085146.png)
 Este repositório contém um projeto prático de Business Intelligence desenvolvido para o setor de Gestão de Ativos Industriais. O foco é transformar dados brutos de manutenção e operação em indicadores estratégicos para tomada de decisão.
 
 ---
