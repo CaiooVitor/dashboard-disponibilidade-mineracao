@@ -29,9 +29,3 @@ O dashboard foi desenvolvido utilizando o conceito de **Dark Mode**, inspirado e
 
 ## ⚠️ Nota de Confidencialidade
 Por questões de segurança da informação, todos os dados contidos neste repositório são **fictícios**. Eles foram criados exclusivamente para demonstrar a aplicação da metodologia e as competências técnicas do autor.
-
----
-
-## 📩 Contato
-Desenvolvido por **[Seu Nome Aqui]**
-[LinkedIn]([https://www.linkedin.com/in/caio-vitor-fonseca-diniz-037485257/?skipRedirect=true]) | [caiovitor3ma@gmail.com]
